@@ -1,7 +1,7 @@
 <h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 I am <i>Piyush Chugeja</i>
-- 🔭 I’m currently working on sharpening my programming knowledge and skills
+- 🔭 I’m currently working on sharpening my web development skills
 - 🌱 I’m currently learning about data structures
 - 📫 How to reach me: <br> 
  Click <a href="mailto:piyushchugeja@gmail.com">here</a> to mail me
