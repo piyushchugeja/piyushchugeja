@@ -10,8 +10,10 @@ or <a href="https://www.linkedin.com/in/piyush-chugeja/">connect</a> with me on 
 - ✌🏻 Happy to help, ask me anything
 - ⚡ Pun fact: as a programmer, waking up is the 0th thing I do every morning
 
-<h1> Projects </h1><a href="http://thresholdgaming.herokuapp.com/landing_page/loading.php">Threshold Gaming</a>
-<p> Just one yet
+<h1> Projects </h1>
+<a href="http://thresholdgaming.herokuapp.com/landing_page/loading.php" target="_blank">Threshold Gaming</a>
+<a href="https://calendarwebpage.000webhostapp.com/" target="_blank"> Calendar - 2021 </a>
+<p> Just two yet
 <br>Look at some others by scrolling down 😄</p>
 
 <h1> Skills </h1>
