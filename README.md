@@ -24,6 +24,14 @@ or <a href="https://www.linkedin.com/in/piyush-chugeja/">connect</a> with me on 
  <h1> Stats </h1>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushchugeja&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushchugeja&theme=nightowl)
+ <div align="left" style="float: left;">
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushchugeja&show_icons=true&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushchugeja&theme=nightowl&layout=compact)
+ 
+ </div>
+ 
+ <div align="left" style="float: left;">
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushchugeja&show_icons=true&theme=nightowl)
+ 
+ </div>
