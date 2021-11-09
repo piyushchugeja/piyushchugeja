@@ -11,13 +11,13 @@
 - 😄 Pronounce my name as <b>Pee-you-sh</b> 
 - ✌🏻 Happy to help, ask me anything
 - ⚡ Pun fact: as a programmer, waking up is the 0th thing I do every morning
-
+<!--
 <h1> Projects </h1>
 <a href="http://thresholdgaming.herokuapp.com/landing_page/loading.php" target="_blank">Threshold Gaming</a>
 <br>
 <a href="https://calendarwebpage.000webhostapp.com/" target="_blank"> Calendar - 2021 </a>
 <p> Just two yet
-<br>Look at some others by scrolling down 😄</p>
+<br>Look at some others by scrolling down 😄</p> -->
  
 <h1> Skills </h1>
 <p>
