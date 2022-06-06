@@ -1,7 +1,7 @@
-<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center"> Hi there 👋🏻 </h1>
 
 <h4 align="center">I am <i>Piyush Chugeja</i></h4>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=piyushchugeja&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=piyushchugeja&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 - 🔭 I’m currently working on sharpening my web development skills
 - 🌱 I’m currently learning about data structures
