@@ -6,7 +6,7 @@
 - 🔭 I am currently working on sharpening my problem solving skills
 - 🌱 I am interested and keen towards AI and Python
 - 📫 How to reach me: <br>
-  <a href="mailto:piyushchugeja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/piyush-chugeja/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:piyushchugeja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/piyushchugeja/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
 - 😄 Pronounce my name as <b>Pee-you-sh</b> 
 - ✌🏻 Happy to help, ask me anything
