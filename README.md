@@ -3,7 +3,7 @@
 <h4 align="center">I am <i>Piyush Chugeja</i></h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=piyushchugeja&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-- 🔭 I am currently working on sharpening my problem solving skills
+- 🔭 I am currently working on sharpening my problem-solving skills
 - 🌱 I am interested and keen towards AI and Python
 - 📫 How to reach me: <br>
   <a href="mailto:piyushchugeja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/piyushchugeja/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -23,3 +23,6 @@
  
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushchugeja&show_icons=true&theme=nightowl)
+
+[![An image of @piyushchugeja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyushchugeja)](https://holopin.io/@piyushchugeja)
+
