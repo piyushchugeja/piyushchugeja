@@ -24,7 +24,5 @@
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushchugeja&show_icons=true&theme=nightowl)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=piyushchugeja&theme=radical)](https://git.io/streak-stats)
-
 [![An image of @piyushchugeja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyushchugeja)](https://holopin.io/@piyushchugeja)
 
